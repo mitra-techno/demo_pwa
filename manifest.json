@@ -1,0 +1,22 @@
+{
+    "name": "My GitHub PWA",
+    "short_name": "GitPWA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007acc",
+    "icons": [
+      {
+        "src": "icons/collard.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/collard.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
+  
